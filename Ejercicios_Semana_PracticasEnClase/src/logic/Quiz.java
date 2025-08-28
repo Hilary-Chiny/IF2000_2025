@@ -8,6 +8,7 @@ package logic;
  *
  * @author Lenovo
  */
+
 public class Quiz { 
     public Quiz(){ 
     
